@@ -1,2 +1,2 @@
-# care-pulse
+# CarePulse
 Patient Management Dashboard
